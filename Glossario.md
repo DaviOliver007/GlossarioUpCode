@@ -1,11 +1,11 @@
 # Glossário
 
-## List
+#exeption
 ## Classe
 Representa uma entidade em um programa.
 
 TURURU
-
+## Lambda
 ## Herança
 Herenca
 ## Interface
